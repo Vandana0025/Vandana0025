@@ -32,6 +32,7 @@ I build and modernize large-scale enterprise web applications. Most of my work i
 | **All Things F1** | F1 statistics dashboard — race results, driver & constructor standings, head-to-head comparison charts. Live data via Ergast/OpenF1 APIs. | [Visit →](https://all-things-f1.vercel.app) |
 | **Nihongo N5 / N4** | JLPT prep apps with 50 structured lessons, flashcards, grammar quizzes, a sentence builder, and listening exercises. | [N5 →](https://nihongo-n5-lima.vercel.app) · [N4 →](https://nihongo-n4-lima.vercel.app) |
 | **Arcade** | Browser-based gaming portal with multiple mini-games, shared theming and score tracking. Packaged for iOS with Capacitor. | [Visit →](https://arcade-lima.vercel.app) |
+| **GhostTab** | Chrome extension (Manifest V3) that puts a single tab into stealth mode on demand — deletes its history as you browse, wipes cookies and storage when it closes, strips the referrer, and adds noise to canvas, WebGL and audio fingerprints. | *Chrome extension* |
 
 ---
 
