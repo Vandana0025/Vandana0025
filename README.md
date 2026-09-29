@@ -27,11 +27,11 @@ I build and modernize large-scale enterprise web applications. Most of my work i
 
 | Project | What it is | Live |
 |---|---|---|
+| **Maze Runner** | Drive a robot through a procedurally generated 3D maze — built in vanilla Three.js as nine teaching stages, from the render loop to skinned animation blending, instancing, bloom and a touch thumbstick. Installable PWA with voice chat. | [Visit →](https://maze-runner-lima.vercel.app) |
+| **Tenarai** | A Japanese writing classroom — real-time video sessions paired with a shared whiteboard, so a teacher can demonstrate stroke order while students practice alongside. Join by room code. *(Aug 2026)* | [Visit →](https://tenarai.vercel.app) |
 | **All Things F1** | F1 statistics dashboard — race results, driver & constructor standings, head-to-head comparison charts. Live data via Ergast/OpenF1 APIs. | [Visit →](https://all-things-f1.vercel.app) |
 | **Nihongo N5 / N4** | JLPT prep apps with 50 structured lessons, flashcards, grammar quizzes, a sentence builder, and listening exercises. | [N5 →](https://nihongo-n5-lima.vercel.app) · [N4 →](https://nihongo-n4-lima.vercel.app) |
 | **Arcade** | Browser-based gaming portal with multiple mini-games, shared theming and score tracking. Packaged for iOS with Capacitor. | [Visit →](https://arcade-lima.vercel.app) |
-| **Tenarai** | A Japanese writing classroom — real-time video sessions paired with a shared whiteboard, so a teacher can demonstrate stroke order while students practice alongside. Join by room code. *(Aug 2026)* | [Visit →](https://tenarai.vercel.app) |
-| **Maze Runner** | Drive a robot through a procedurally generated 3D maze — built in vanilla Three.js as nine teaching stages, from the render loop to skinned animation blending, instancing, bloom and a touch thumbstick. Installable PWA with voice chat. | [Visit →](https://maze-runner-lima.vercel.app) |
 
 ---
 
