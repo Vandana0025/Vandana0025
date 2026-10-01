@@ -50,8 +50,3 @@ I build and modernize large-scale enterprise web applications. Most of my work i
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vandana-0025)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vandana_25@outlook.com)
-
----
-
-<img src="https://github-readme-stats.vercel.app/api?username=Vandana0025&show_icons=true&hide_border=true&count_private=true" height="150" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vandana0025&layout=compact&hide_border=true" height="150" alt="Top languages" />
