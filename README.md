@@ -42,7 +42,7 @@ I build and modernize large-scale enterprise web applications. Most of my work i
 *Dissertation: identity-based cryptography for cloud encryption — benchmarked against AES-256 and DES-256*
 
 **B.Tech, Information Technology** · 2011 – 2015
-*Capstone: a web-based multi-language IDE portal, later adopted by the university IT department*
+*Capstone: a web-based multi-language IDE portal, accessible in the university intranet*
 
 ---
 
